@@ -6,7 +6,7 @@ NOTE: Den skulle inte fungera även om du gjorde vad som står i Readme då disc
 
 Jag har även gjort en Python bot som skulle spela ett spel åt oss. Den integerade också med Discord. Den här är inte uppladdad på git.
 
-Java har jag inte gjort något eget i men kan det fortfarande till viss del.
+Java har jag inte gjort något eget i men kan det fortfarande till viss del. Jag hade börjat på en bot men slutförde den alldrig.
 
 ------------------------------
 
