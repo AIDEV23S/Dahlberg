@@ -1,0 +1,15 @@
+Tidigare kunskaper:
+Jag har gjort mest kod i Java, Javascript och Python där Python är det nyaste jag lärt mig.
+I Javascript så har jag gjot en discord bot med. Den är dålig och inte så effectiv men om du vill kolla på den så finns den här:
+https://github.com/Snissysneak/Synth-Rider-Competitive-Bot
+NOTE: Den skulle inte fungera även om du gjorde vad som står i Readme då discord har uppdaterat hur bottar ska fungera.
+
+Jag har även gjort en Python bot som skulle spela ett spel åt oss. Den integerade också med Discord. Den här är inte uppladdad på git.
+
+Java har jag inte gjort något eget i men kan det fortfarande till viss del.
+
+------------------------------
+
+Mina förväntningar:
+Jag förväntar mig från den här kursen att få veta lite om hur AI blit utvecklade i kod.
+I samband med det så vill jag veta hur olika typer av AI koder kan se ut/fungera.
